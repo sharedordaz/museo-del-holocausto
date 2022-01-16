@@ -1,0 +1,25 @@
+:root{
+    --brown: #CB997E;
+    --light-brown: #ddbea9;
+    --beige: #ddbea9;
+    --lighter-sepia: #b7b7a4;
+    --light-sepia: #a5a58d;
+    --sepia: #6b705c;
+
+    background-image: url(images/table.jpg);
+}
+main{
+    margin: 10% 7% 10% 7%;
+
+    background-image: url(images/book.png);
+    background-size:100% 100%;
+
+    width: 83%;
+    height: 23em;
+
+    border: 3px solid black;
+
+    /*shadow*/
+    /* -webkit-filter: drop-shadow(8px 5px 0px black); */
+    display:grid;
+}
