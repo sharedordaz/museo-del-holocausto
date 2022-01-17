@@ -17,7 +17,8 @@
             "descripcion" : "Helga Weissová recibió de su padre un consejo que jamás olvidaría: “Pinta lo que ves”. De esta manera, la niña Helga se encargó de retratar la muerte que acechaba a cada uno de los habitantes de aquella prisión con las dimensiones de una ciudad. La pequeña Helga desde su ciudad natal, Praga escribe en 1939. Apenas tiene diez años y en su diario comienza a anotar los cambios que se producen en su vida de clase media judía checoeslovaca y lo que había vivido lo plasmo en dibujos y el diario que llevaba. No lo abandonaría desde entonces hasta 1945, año en que es trasladada desde el campo de concentración de Terezin a Auschwitz, y de allí Mauthausen, donde sería liberada al final de la guerra junto a su madre. En medio dejaría amigos y parientes, todos pendientes de los así llamados “transportes” que se los llevaban al “otro lado”, eufemismo con el que la mayoría se autoengañaba para no pronunciar la verdad de lo que les esperaba: el gas.  La propia Weiss pidió a su familiar que rescatara sus páginas del escondite emparedado donde las había escondido. No sería hasta muchas décadas después cuando la autora se percataría del valor histórico y artístico de su producción, que había estado hasta entonces guardada y expuesta parcialmente . El Holocausto sigue siendo incomprensible, y cada libro no es más que una gota en un océano de incredulidad del que aún no hemos conseguido vislumbrar la orilla. Y los testimonios tienen el valor que Helga define en una pregunta que anotó en su cuaderno: “¿Tiene algo en común nuestra vida con la del resto del mundo? ¿Podremos continuar la vida con los que se quedaron fuera y avanzaron sin interrupción por su camino?”.",
             "imagen" : "projectImages/guetto.jpg",
             "gen" : "2020-2021"
-        },        {
+        },        
+        {
             "nombre" : "Los niños son arrancados de sus madres",
             "autor" : "Ella Liebermann",
             "ibime" : false,
@@ -25,7 +26,8 @@
             "descripcion" : "Terezín fue el campo de concentración instalado por los nazis a las afueras de Praga. La llamada “Sala de espera del infierno” fue parada sin fonda de 150.000 Judíos y de más de 15.000 niños y preadolescentes con destino Auschwitz. Una mujer 'Friedl Dicker Brandeis' dedicó su internado a enseñar clandestinamente arte y pintura como terapia evasiva a muchos de esos niños. Antes de marchar al patíbulo, Friedl rescató 4.500 de los dibujos que más tarde sirvieron como prueba en Nuremberg y que son testimonio indeleble de aquella barbarie. Friedl Dicker consiguió que aquellos niños recordaran, dibujando, la vida de la que habían sido arrancados además de representar la triste y horrible realidad del campo de concentración. Por encima de todo, los niños podían transportarse con la pintura a un mundo de fantasía e imaginación donde el bien permanecía sobre el mal, la voluntad era libre y la esperanza el camino. Son constantes los dibujos representando su vuelta a casa, las escenas cotidianas o sus deseos de libertad. Pero Friedl Dicker respetaba plenamente la personalidad de cada niño y dejaba que vomitasen y abriesen a su imaginación las percepciones que sobre las atrocidades del campo ellos tenían. Al fin y al cabo sólo 100 de los 15.000 niños sobrevivieron a Terezín. Muchos de los dibujos tienen una excelente calidad para la edad de sus autores, no en vano, algunos de ellos fueron, más tarde, reputadísimos artistas gracias a la labor insigne de Friedl Dicker Brandeis",
             "imagen" : "projectImages/ninos.jpg",
             "gen" : "2020-2021"
-        },        {
+        },        
+        {
             "nombre" : "Como sardinas en lata",
             "autor" : "Ella Liebermann",
             "ibime" : false,
@@ -33,7 +35,8 @@
             "descripcion" : "Como sardinas en lata, los judíos de toda Europa eran enviados a la muerte.Gueto de Bedzin. Polonia. Terezín fue el campo de concentración instalado por los nazis a las afueras de Praga. La llamada “Sala de espera del infierno” fue parada sin fonda de 150.000 Judíos y de más de 15.000 niños y preadolescentes con destino Auschwitz. Una mujer 'Friedl Dicker Brandeis' dedicó su internado a enseñar clandestinamente arte y pintura como terapia evasiva a muchos de esos niños. Antes de marchar al patíbulo, Friedl rescató 4.500 de los dibujos que más tarde sirvieron como prueba en Nuremberg y que son testimonio indeleble de aquella barbarie",
             "imagen" : "projectImages/sardinas.jpg",
             "gen" : "2020-2021"
-        },        {
+        },   
+        {
             "nombre" : "Monumento conmemorativo a Janusz Korczak",
             "autor" : "Zbigniew Wilma y Bohdan Chmielewski",
             "ibime" : false,
@@ -41,7 +44,8 @@
             "descripcion" : "Médico, escritor y educador judío polaco, nacido en Varsovia en el seno de una familia asimilada. Janusz Korczak dedicó su vida a los niños, especialmente a los huérfanos. Estaba convencido de que siempre se debía escuchar y respetar a los niños, y esta convicción se reflejaba en su trabajo. Escribió numerosos libros sobre y para niños y condujo un programa de radio infantil. En 1912 asumió la dirección de un orfanato judío en Varsovia. Cuando estalló la Segunda Guerra Mundial, en 1939 con la ocupación alemana de Polonia, Janusz Korczak se negó a acatar las disposiciones nazis y fue encarcelado por un tiempo. Cuando los judíos de Varsovia fueron obligados a trasladarse a un gueto, Janusz Korczak concentró sus esfuerzos, como siempre, en los niños de su orfanato. Sus amigos polacos estaban dispuestos a ocultarlo en el sector «ario» de la ciudad, pero él se negó. El 5 de agosto de 1942, durante una ola de deportaciones que duró dos meses, los nazis ordenaron la evacuación del orfanato. Janusz Korczak marchó cantando con sus 200 niños hacia el Umschlagplatz. Según testimonios, algunas personas le ofrecieron interceder por su vida ante los alemanes. Janusz Korczak se negó a abandonar a sus niños. Fue asesinado junto con ellos en Treblinka. La escultura se encuentra donde estaba el orfanato y el árbol de siete puntas simboliza el candelabro judío la Menorá.",
             "imagen" : "projectImages/janusz.jpg",
             "gen" : "2020-2021"
-        },        {
+        },    
+        {
             "nombre" : "El golpeado (Mi hermano Gedalyahu)",
             "autor" : "Jacob Lipschitz",
             "ibime" : false,
@@ -49,12 +53,40 @@
             "descripcion" : "Arte del Holocausto es una muestra inédita y conmovedora que tiene la difícil y complicada tarea de confrontar de nuevo al público alemán. Acuarela sobre papel 29.9 x 16.3 cm Colección del Museo de Arte Yad Vashem, Jerusalén",
             "imagen" : "projectImages/gedalyahu.jpg",
             "gen" : "2020-2021"
-        },        {
+        },    
+        {
             "nombre" : "Muchachas en el campo",
             "autor" : "Nelly Toll",
             "ibime" : false,
             "tecnica" : "Dibujo",
             "descripcion" : "'Muchachas en el campo' Nelly Toll tenía tan solo ocho años cuando el ejército de Hitler llegó a la por entonces localidad polaca de Lwów (actualmente Lviv en Ucrania). Ella y su madre lograron escapar de la persecución contra los judíos y se escondieron en una pequeña habitación hasta que finalizó el peligro. Su hermano, de cinco años, no corrió la misma suerte y fue asesinado por los nazis ante su padre, que también moriría poco después. Ahora Nelly Toll tiene 80 años y vive en Nueva Jersey (Estados Unidos). Durante el tiempo que estuvo oculta junto con su madre Nelly plasmó artísticamente su deseo de libertad, tal y como se puede apreciar en su cuadro ‘Muchachas en el campo’. ",
+            "imagen" : "projectImages/nelly.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Konzentrationslager",
+            "autor" : "Adrian De la Mora Sautto",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Relato o historia que cuenta: la desnutrición evidente de los prisioneros en los campos de concentración. DATO CURIOSO El nombre de la obra de arte significa campos de concentración en Alemán. ",
+            "imagen" : "projectImages/adrianmora.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "The big scape",
+            "autor" : "Adrian De la Mora Sautto",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Que el arte puede brotar de las situaciones y los lugares menos imaginados, es algo de lo que Jan Komski puede dar fe. Sobreviviente del Holocausto, Komski estuvo confinado por años en Auschwitz hasta su liberación al final de la guerra. Nacido en Polonia, fue detenido por portar documentos falsos en su intento por escapar a Francia y formar parte de la resistencia y enviado de inmediato a Auschwitz en junio de 1940, lo que le confiere el amargo honor de ser parte del grupo de los primeros 756 internos en ese campo. En 1942 logró escapar de Auschwitz y dejó testimonio de ese acontecimiento en una acuarela titulada «The Big Scape». Sin embargo, fue capturado nuevamente y en los siguientes años tuvo un agónico peregrinaje por diversos campos de concentración: Auschwitz nuevamente, Buchenwald, Gross-Rosen y Dachau. Con el avance de las tropas aliadas hacia Berlín, obtuvo la libertad en abril de 1945 pero solo cuatro años después pudo emigrar a EEUU",
+            "imagen" : "projectImages/bigscape.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Konzentrationslager",
+            "autor" : "Adrian De la Mora Sautto",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Relato o historia que cuenta: la desnutrición evidente de los prisioneros en los campos de concentración. DATO CURIOSO El nombre de la obra de arte significa campos de concentración en Alemán. ",
             "imagen" : "projectImages/nelly.jpg",
             "gen" : "2020-2021"
         }

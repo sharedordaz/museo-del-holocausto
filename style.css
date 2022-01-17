@@ -20,10 +20,10 @@ main{
     width: 83%;
     height: 23em;
 
-    border: 3px solid black;
+    /* border: 3px solid black; */
 
     /*shadow*/
-    /* -webkit-filter: drop-shadow(8px 5px 0px black); */
+    -webkit-filter: drop-shadow(8px 5px 0px black);
 }
 .image-grid{
     display:grid;
@@ -42,8 +42,33 @@ main{
     height:60%;
 
 }
+
 .click-info{
+    background-color:var(--lighter-sepia);
+    opacity:0.95;
     display: none;
-    width:100px;
-    background-color: white;
+    width:83%;
+
+
+    position:absolute;
+    top:-10%;
+    left:10%;
+    
+
+    animation: reverse;
+    animation-duration: 2s;
+    padding:1%;
 }
+
+.click-info img{
+    max-width:45%;
+    
+}
+.exit{
+    float:right;
+    width: 4%;
+}
+.exit:hover{
+    filter:blur(2px);
+}
+

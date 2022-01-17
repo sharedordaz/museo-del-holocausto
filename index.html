@@ -12,13 +12,19 @@
     <main>
         <div class="image-grid">
         <!--Javascript Content-->
-            <script src="datos.js"></script>
+            
         </div>
         <div class="click-info">
-            hello
+            <img onclick="let box = document.querySelector('.click-info')
+                                    box.innerHTML = ''; 
+                                    box.appendChild(exit);
+                                    box.style.display = 'none'"
+                                    class="exit" src="images/x.png" alt="exit">
+            <script> let exit = document.querySelector(".exit");</script>
         <!--Javascript Content-->
         <!--Display None until someone clicks the image-->
         </div>
+        <script src="datos.js"></script>
     </main>
 </body>
 </html>
