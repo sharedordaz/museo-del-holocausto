@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 :root{
     --brown: #CB997E;
     --light-brown: #ddbea9;
@@ -11,6 +12,7 @@
 img{
     max-width: 100%;
 }
+
 main{
     margin: 10% 7% 10% 7%;
 
@@ -24,7 +26,11 @@ main{
 
     /*shadow*/
     -webkit-filter: drop-shadow(8px 5px 0px black);
+
+    z-index:3;
 }
+
+
 .image-grid{
     display:grid;
     grid-template: 1fr 1fr/ repeat(4, 1fr);
@@ -70,5 +76,27 @@ main{
 }
 .exit:hover{
     filter:blur(2px);
+}
+#title{
+    position:absolute;
+    top:0%;
+    left:30%;
+    right:30%;
+
+    font-size: 3rem;
+    font-family: 'Oswald', 'Times New Roman', Times, serif;
+    color: white;
+    z-index:1;
+}
+#ibime-logo{
+
+    width:30%;
+
+    position:absolute;
+    top:75%;
+    left:30%;
+    right:30%;
+    
+    z-index:2;
 }
 
