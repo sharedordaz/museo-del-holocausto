@@ -20,14 +20,18 @@
             <img onclick="let box = document.querySelector('.click-info')
                                     box.innerHTML = ''; 
                                     box.appendChild(exit);
-                                    box.style.display = 'none'"
+                                    box.style.display = 'none';
+                                    document.getElementById('title').style.display = 'block';;
+                                    document.getElementById('ibime-logo').style.display = 'block';
+                                    "
                                     class="exit" src="images/x.png" alt="exit">
             <script> let exit = document.querySelector(".exit");</script>
         <!--Javascript Content-->
         <!--Display None until someone clicks the image-->
         </div>
-        <script src="datos.js"></script>
+        
     </main>
     <img id="ibime-logo" src="images/logo-ibime.png" alt="ibime logo">
+    <script src="datos.js"></script>
 </body>
 </html>
