@@ -117,9 +117,12 @@ fetch(requestURL)
             
             let logo = document.getElementById("ibime-logo");
 
+            let page_reader = document.querySelector(".page-reader");
+
+
             site_title.style.display = "none";
             logo.style.display = "none";
-          
+            page_reader.style.display ="none";
           }); 
 
 

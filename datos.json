@@ -278,6 +278,117 @@
             "descripcion" : "Esta obra representa un campo de concentración, estando arriba dos soldados y abajo mujeres y niños esperando para entrar a la cámara de gas.",
             "imagen" : "projectImages/plastilinaerick.png",
             "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Jabones en el holocausto",
+            "autor" : "Laura Valentina Aguilar Melo",
+            "ibime" : true,
+            "tecnica" : "Jabon Artesanal",
+            "descripcion" : "La alumna de Ibime Laura Valentina Aguilar Melo elaboró un hueso de jabón para concientizar acerca de como en el pasado se elaboraron jabones de los cadáveres de la gente en los campos de concentración.Tras la Segunda Guerra Mundial, los hombres de Hitler fueron acusados de hervir cadáveres para extraerles el sebo y usarlo en la industria de la limpieza desde el final de la Segunda Guerra Mundial, hablan de las sanguinarias prácticas realizadas por los nazis con los presos de los campos de concentración. Desde fabricar lámparas con piel humana , jabones hechos de huesos humanos, hasta llevar a cabo crueles ensayos con seres humanos.",
+            "imagen" : "projectImages/jabonhueso.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Opferfinn",
+            "autor" : "Marcel Fürstenau",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Más de 200.000 personas de toda Europa fueron encarceladas aquí desde 1936 hasta 1945. Sus torturadores los humillaron, atormentaron y obligaron a desempeñar trabajos forzosos para impulsar la industria alemana. Cuando los soldados rusos y polacos llegaron al campo de concentración, la mayoría de los prisioneros restantes ya había muerto. Muchos sucumbieron de agotamiento o murieron fusilados por los guardias. Sachsenhausen también fue un campo de exterminio, donde miles de soldados soviéticos fueron ejecutados y se llevaron a cabo experimentos con gas. ",
+            "imagen" : "projectImages/opfer.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Todo el mundo tiene hambre",
+            "autor" : "Liana Franklová",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Terezín fue el campo de concentración instalado por los nazis La llamada “Sala de espera del infierno” fue parada sin fonda de 150.000 Judíos y de más de 15.000 niños y preadolescentes con destino Auschwitz. Una mujer -Friedl Dicker Brandeis- dedicó su internado a enseñar clandestinamente arte y pintura como terapia evasiva a muchos de esos niños. Antes de marchar al patíbulo, Friedl rescató 4.500 de los dibujos que más tarde sirvieron como prueba en Nuremberg y que son testimonio indeleble de aquella barbarie",
+            "imagen" : "projectImages/hambre.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Una mariposa amarilla y los pirineos",
+            "autor" : "Kurt Löw y Karl Bodek",
+            "ibime" : false,
+            "tecnica" : "Pintura",
+            "descripcion" : "Relato o historia que cuenta: la pintura simboliza la libertad posada en un alambre espinoso y al fondo se encontraba el campo de concentración *Gurs* que era uno de los mas terribles campos de trabajo nazis.",
+            "imagen" : "projectImages/mariposa.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Entrada trasera guetto de Theresienstadt.",
+            "autor" : "Bedřich Fritta",
+            "ibime" : false,
+            "tecnica" : "Pintura",
+            "descripcion" : "Bedrich Fritta es uno de los artistas más famosos de la exposición. En Theresienstadt dirigía el estudio de diseño donde se preparaba el material de propaganda oficial, Fritta y sus colegas dibujaron en secreto los horrores de los guetos. En 1944 fueron descubiertos. Fritta murió en Aushwitch, tras la liberación de Theresienstadt aparecieron 200 de sus obras, enterradas u ocultas en las paredes.",
+            "imagen" : "projectImages/entradatrasera.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Centros de Exterminio",
+            "autor" : "Rubén Lozano Muñiz",
+            "ibime" : true,
+            "tecnica" : "Maqueta",
+            "descripcion" : "Es una maqueta que describe como se llevaba a cabo el proceso de exterminio, pudiéndose ver las cámaras de gas y los crematorios. Los nazis experimentaron con gas y las primeras victimas fueron las personas con discapacidades físicas o mentales. ",
+            "imagen" : "projectImages/rubenlozano.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Memorial del holocausto",
+            "autor" : "Kenneth Treister",
+            "ibime" : false,
+            "tecnica" : "Escultura",
+            "descripcion" : "El autor fue comisionado en 1985 a crear una escultura en honor a todas las personas, especialmente los judíos, que fueron víctimas del holocausto y darles una oportunidad, de recordar a todos los seres queridos que perdieron en esa época, y de los cuales, no existe cementerio",
+            "imagen" : "projectImages/kennethmemorial.jpg",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "Tocar la alambrada",
+            "autor" : "Alfred Kantor",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Esta obra de arte dio origen a los fusilamientos del 3 de Mayo Esta obra de arte es un testimonio de una persona que paso tiempo en los campos de concentración y esta imagen representa que algunas personas de afuera les compartían comida sabiendo que se exponían a una muerte segura si eran sorprendidos.",
+            "imagen" : "projectImages/kantor.png",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "Obra sin titulo",
+            "autor" : "Helga Weissova",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Su padre le dijo, pinta lo que vez. Fue sobre todo en Terezin donde comenzó a dibujar y, por tanto, a documentar aquellas desgracias. 'Estuve en ese lugar casi tres años. De niña me convertí en adulta' comenta la artista. Weissová tiene hoy 88 años",
+            "imagen" : "projectImages/weissova.jpg",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "Dibujo anónimo",
+            "autor" : "Desconocido",
+            "ibime" : false,
+            "tecnica" : "Grafito y pintura",
+            "descripcion" : "Dibujo anónimo de una de las personas que estuvo en Auschwitz, encontrado dentro de una botella. Es te dibujo representa a las personas de los campos que las iban a matar, esta la ambulancia para que pensaran que iban al doctor, el campo de exterminio, también llamados campos de la muerte o fábricas de la muerte, fueron un tipo de campos de concentración construidos durante la Segunda Guerra Mundial por el régimen nazi, donde quemaban los cuerpos.",
+            "imagen" : "projectImages/anonimo.png",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "La sobreviviente que dibujó el horror nazi",
+            "autor" : "Helga Weissová",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Lo peor de todo era el transporte... El tiempo que pasaba entre la llegada de uno u otro tren podía soportarse con cierta decencia en Terezín antes de que el gueto quedara superpoblado a medida que se iba aplicando la solución final. Pero cuando llegaba el transporte caía de golpe la angustia. Aquellos trenes terminaban con la tregua de cada espera fundamentada, con una más que razonable terquedad, en la necesaria evasión de la supervivencia.",
+            "imagen" : "projectImages/weissovahorror.png",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "Sendero entre los barracones",
+            "autor" : "Leo Breuer",
+            "ibime" : false,
+            "tecnica" : "Acuarela",
+            "descripcion" : "Relato o historia que cuenta: Leo Breuer luchó para el káiser en la Primera Guerra Mundial. En 1934, un año después de que Hitler llegara al poder, el artista emigro a la Haya y posteriormente a Bruselas, donde pudo seguir trabajando y exponiendo. En Gurs dibujó y pintó con acuarela como era la vida en los campos",
+            "imagen" : "projectImages/senderobarracones.png",
+            "gen" : "2020-2021"
+        },        {
+            "nombre" : "La canción se acabó",
+            "autor" : "Pavel Fantl",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Es la primera vez que el Hitler-payaso se exhibe en Alemania, un país que se toma su tiempo y camina con suelas de algodón cada vez que debe recordar la matanza sin justificación que admitió por activa o pasiva bajo el mando de los dirigentes a los que había elegido democráticamente y seguido con ceguera.",
+            "imagen" : "projectImages/hitlerpayaso.jpg",
+            "gen" : "2020-2021"
         }
     ]
 }
