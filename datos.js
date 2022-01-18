@@ -13,7 +13,7 @@ fetch(requestURL)
 
     let start_index = 0;
     let end_index = 8;
-    
+    let page = 1
     let next_button =  document.getElementById("right");
     next_button.addEventListener("click", () =>{
 
@@ -111,3 +111,5 @@ fetch(requestURL)
   //   end_index = obras.length;
     
   // }
+
+  //!Add a nav bar with page number please!

@@ -74,20 +74,110 @@
         },
         {
             "nombre" : "The big scape",
-            "autor" : "Adrian De la Mora Sautto",
-            "ibime" : true,
+            "autor" : "Jan Komski",
+            "ibime" : false,
             "tecnica" : "Dibujo",
             "descripcion" : "Que el arte puede brotar de las situaciones y los lugares menos imaginados, es algo de lo que Jan Komski puede dar fe. Sobreviviente del Holocausto, Komski estuvo confinado por años en Auschwitz hasta su liberación al final de la guerra. Nacido en Polonia, fue detenido por portar documentos falsos en su intento por escapar a Francia y formar parte de la resistencia y enviado de inmediato a Auschwitz en junio de 1940, lo que le confiere el amargo honor de ser parte del grupo de los primeros 756 internos en ese campo. En 1942 logró escapar de Auschwitz y dejó testimonio de ese acontecimiento en una acuarela titulada «The Big Scape». Sin embargo, fue capturado nuevamente y en los siguientes años tuvo un agónico peregrinaje por diversos campos de concentración: Auschwitz nuevamente, Buchenwald, Gross-Rosen y Dachau. Con el avance de las tropas aliadas hacia Berlín, obtuvo la libertad en abril de 1945 pero solo cuatro años después pudo emigrar a EEUU",
             "imagen" : "projectImages/bigscape.jpg",
             "gen" : "2020-2021"
         },
         {
-            "nombre" : "Konzentrationslager",
-            "autor" : "Adrian De la Mora Sautto",
+            "nombre" : "La marcha de la muerte",
+            "autor" : "David Olère",
+            "ibime" : false,
+            "tecnica" : "Oleo",
+            "descripcion" : "En enero de 1945, Hitler y el Tercer Reich se encaminaban inevitablemente a la derrota. Los soviéticos avanzaban hacia Berlín y los nazis comenzaron a evacuar los campos de concentración para eliminar el mayor número posible de pruebas que documentaban el Holocausto. David Olère fue uno de los 60.000 prisioneros forzados a abandonar Auschwitz en penosas condiciones, durante las llamadas marchas de la muerte",
+            "imagen" : "projectImages/marchamuerte.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El ángel del gueto de Varsovia",
+            "autor" : "Allison Estefania Orihuela Luna",
             "ibime" : true,
+            "tecnica" : "Escultura",
+            "imagen" : "projectImages/allisonirena.jpeg",
+            "descripcion" : "En la imagen: Da a conocer la historia de Irena Sendler, una enfermera que salvo la vida de muchos niños",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "La comida de los muertos para los vivos",
+            "autor" : "David Olère",
+            "ibime" : false,
+            "tecnica" : "Oleo",
+            "descripcion" : "David Olère nació el 19 de enero de 1.902 en Varsovia, donde estudió en la Academia de Bellas Artes. A los dieciséis años, se mudó, primero a Danzig (Gdansk) y después a Berlín, ciudades en las que realizó exhibiciones de sus grabados en madera. Entre 1.921 y 1.922, continuó trabajando como artista en Alemania. Se abrió camino en pintura, escultura y diseño de escenarios y carteles trabajando para la empresa cinematográfica Europäische Film Allianz y en 1.923 se mudó a París. Como muchos artistas de esa época, vivió en Montparnasse y formó parte de la industria fílmica francesa, diseñó estudios de filmación, vestuario y carteles, principalmente para las películas de los estudios Paramount. Tras casarse con Juliette Ventura en 1.930, se mudó a Noisy-le-Grand, un barrio en las afueras de París, donde nació su único hijo, Alexander. Cuando comenzó la Segunda Guerra Mundial, Olère fue reclutado y trasladado al batallón 134 de la infantería francesa, y tras la derrota de Francia, volvió a París. El 20 de febrero de 1.943 David Olère fue arrestado y enviado al campo de Drancy, conocido como “la sala de espera de Auschwitz”, destino final para la mayoría de los prisioneros. Dos semanas después, el 2 de marzo de 1.943, Olère fue enviado a Auschwitz en el transporte 49, donde entra con el número 106.144. En el campo de concentración de Auschwitz, los SS notaron sus habilidades y su talento artístico. Hablaba fluidamente varios idiomas (polaco, ruso, idish, francés, inglés y alemán). Los alemanes le pedían que escribiera cartas para enviar a sus familiares, decoradas con ilustraciones atractivas y escritas con elegante caligrafía. También le asignaron a trabajar en el Sonderkommando del Krematorium III, donde fue testigo de las crueldades de los alemanes, llevando los cadáveres de la cámaras de gas a los hornos crematorios. Cuando evacuaron el campo el 19 de enero de 1.945, Olère participó en “la marcha de la muerte”. Lo enviaron al campo de Mauthausen y trabajó en las minas del campo de Melk. El 7 de abril de 1.945, le trasladaron a realizar trabajos forzados en el campo de Ebensee. El 6 de mayo de 1.945 fue liberado por los aliados y volvió a Francia. A partir de su liberación, Olère dibujó y pintó las horrorosas escenas que presenció mientras fue prisionero en los distintos campos de concentración. Sus obras fueron utilizadas como evidencia legal, ya que documentaban las cámaras de gas de Auschwitz. El historiador Robert Jan van Pelt, que lo presentó como testigo experto para la defensa en el juicio Irving vs. Lipstadt (Londres, 2000), también usó las obras de Olère para probar la existencia de las cámaras de gas que hubo en Auschwitz. David Olère es el único artista profesional entre los supervivientes de los Sonderkommando judíos que trabajaban en las cámaras de gas y los crematorios de los campos nazis. En 'La comida de los muertos para los vivos' Olère recoge alimentos abandonados cerca de las salas de ducha del crematorio III de Birkenau, para lanzarla por encima de la valla a las prisioneras del campo de mujeres",
+            "imagen" : "projectImages/comidaolere.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Acuarelas desde el gueto",
+            "autor" : "František Mořic Nágl",
+            "ibime" : false,
+            "tecnica" : "Acuarela",
+            "descripcion" : "El también pintor checo František Mořic Nágl, asesinado en Auschwitz en 1944, ofrece en sus obras de la muestra una visión muy cercana de cómo se vivía en el gueto de Terezín. En sus acuarelas expuestas en Berlín, se observan literas sobre las que se amontonan quienes habitan en abarrotadas viviendas en ausencia total de intimidad. Pese a que existe en el artista una aspiración estética con el uso de colores vivos, esas imágenes son de las que hacen pensar a Stefanie, una jubilada de 65 años, en lo dramática que fue aquella realidad y en cuánto se parece, según ella, a la crisis de los refugiados. La gente que se va ahora de su casa está en una situación diferente a la de las personas que fueron expulsadas durante el nazismo, pero creo que se puede hacer un paralelismo”, dice esta berlinesa tras haber visto la muestra. “Los hay, entre quienes visitan la exposición, a quienes casi resulta familiar las imágenes de Arte del Holocausto. Meses llevan ya miles de personas arriesgando sus vidas al caminar pese al frío y la lluvia o al viajar por mar en peligrosas embarcaciones para venir a Europa y vivir en condiciones precarias por la visible falta de coordinación y medios con los que la Unión Europea afrontan la situación migratoria. ",
+            "imagen" : "projectImages/acuarelasguetto.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Cuando se perdió el respeto por la vida humana",
+            "autor" : "Gael Mendoza Gallo",
+            "ibime" : true,
+            "tecnica" : "Dibujo a lapiz",
+            "descripcion" : "Cuando lo judíos hacían algo que los nazis consideraban 'malo', aventaban las gorras de los judíos fuera de los campos de concentración para obligarlos a ir por ellas, y cuando lo hacían, desde las torres de vigilancia les disparaban. Una tortura habitual.",
+            "imagen" : "projectImages/respetogael.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El ángel del gueto de Varsovia",
+            "autor" : "Ivonne Mora",
+            "ibime" : true,
+            "tecnica" : "Dibujo puntillista",
+            "descripcion" : "Historia sobre Irina Sendler en el gueto de Varsovia. ",
+            "imagen" : "projectImages/angelivonne.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "'Les Inaptes au travail' (La incapacidad laboral)",
+            "autor" : "David Olère",
+            "ibime" : false,
+            "tecnica" : "Oleo",
+            "descripcion" : "Olère vivió personalmente el infierno y obras como esta sirvieron para confirmar el holocausto, que se cobró la vida de millones de hombres, mujeres y niños. «La incapacidad laboral» muestra el destino de los deportados que no podían realizar las tareas ordenadas por los oficiales de las SS en los campos de exterminio durante la Segunda Guerra Mundial. Unos eran enviados a la izquierda, otros a la derecha. Así de simple. Este escalofriante cuadro está ambientado en el campo de exterminio de Auschwitz, en Polonia, y vemos en primer plano a una familia de seis personas, incluido un bebé, que acaban de llegar en tren. Todos los días llegaban al campo miles de personas como esta familia, exhaustas y de piel ceniza, y si no podían trabajar eran llevados directamente a las cámaras de gas. Sobre la familia vuela un espectro transparente que evoca precisamente a los miles de cuerpos que eran cremados a diario y salían en forma de humo por las chimeneas de ese infierno. En el lado izquierdo vemos el brazo de un SS que sostiene un arma y al fondo vemos a cientos de personas trabajando en esa fábrica de la muerte, cargando los cadáveres de su propio pueblo entre alambradas y chimeneas que no dejaron de quemar cuerpos todos los días durante años.",
+            "imagen" : "projectImages/inaptesau.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Sin título",
+            "autor" : "Zoran Music",
+            "ibime" : false,
             "tecnica" : "Dibujo",
-            "descripcion" : "Relato o historia que cuenta: la desnutrición evidente de los prisioneros en los campos de concentración. DATO CURIOSO El nombre de la obra de arte significa campos de concentración en Alemán. ",
-            "imagen" : "projectImages/nelly.jpg",
+            "descripcion" : "La terrible belleza de todos los cuerpos apilados como las ramas de una hoguera, con las manos y los pies que sobresalían. Esa elegancia trágica me fascinaba: la piel era casi transparente, los dedos parecían tan finos, tan frágiles... Los miraba como un sonámbulo que había perdido toda reacción normal, que había aceptado la realidad del campo como si no hubiera otra». La cita es del artista Zoran Music, quien fue recluido en el campo de Dachau en 1944, y relata el paisaje dantesco que encontró al llegar a este lugar y que plasmó en los dibujos que pudo realizar de forma clandestina y que actualmente se conservan en el Centro Pompidou de París. ",
+            "imagen" : "projectImages/zoranmusic.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El pintor del holocausto",
+            "autor" : "Félix Nussbaum",
+            "ibime" : false,
+            "tecnica" : "Pintura",
+            "descripcion" : "Pintor alemán de origen judío que nació en 1904. Estudió en Berlín. Se casó con Felk Platek y se fueron a vivir a Bélgica. En 1940 fue deportado a Francia y vivió en un campo de detención donde pintó sobre el terror que vivían los judíos, logró escapar y regresó a Bélgica. La pintura es de 1944 y el utilizo técnicas de control de ansiedad.",
+            "imagen" : "projectImages/pintorholocausto.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Sin título",
+            "autor" : "Lizbeth Liliana Velázquez Ángeles",
+            "ibime" : true,
+            "tecnica" : "Acuarela",
+            "descripcion" : "Durante la Segunda Guerra Mundial exterminaban a los judíos en la la cámara de gas y les engañaban diciéndoles que se iban a bañar. ",
+            "imagen" : "projectImages/lizbethliliana.jpeg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El ángel del gueto de Varsovia",
+            "autor" : "Ivonne Mora",
+            "ibime" : true,
+            "tecnica" : "Dibujo puntillista",
+            "descripcion" : "Historia sobre Irina Sendler en el gueto de Varsovia. ",
+            "imagen" : "projectImages/angelivonne.jpg",
             "gen" : "2020-2021"
         }
     ]
