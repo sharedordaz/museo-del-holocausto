@@ -169,6 +169,15 @@ main{
 
 }
 
+@media screen and (max-width: 480px){
+    .image-grid{
+        margin-top:10%;
+        gap:10px;
+        align-items: center;
+        justify-items: center;
+    }
+}
+
 @media screen and (min-width: 1600px){
     #title{
         font-size: 5em;
