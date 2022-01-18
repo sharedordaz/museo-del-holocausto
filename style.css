@@ -13,6 +13,10 @@ img{
     max-width: 100%;
 }
 
+h1,h2,h3,h4{
+    font-family: 'Oswald', 'Times New Roman', Times, serif;
+}
+
 main{
     margin: 10% 7% 10% 7%;
 
@@ -27,7 +31,7 @@ main{
     /*shadow*/
     -webkit-filter: drop-shadow(8px 5px 0px black);
 
-    z-index:1;
+    z-index:3;
 }
 
 
@@ -47,6 +51,12 @@ main{
     width:85%;
     height:60%;
     margin:0px 0px 40px 0px;
+
+    border-radius: 10px;
+}
+.image-grid img:hover{
+    filter:brightness(130%);
+    cursor:pointer;
 }
 
 .click-info{
@@ -57,7 +67,7 @@ main{
 
 
     position:absolute;
-    top:-10%;
+    top:-20%;
     left:10%;
     
 
@@ -99,5 +109,29 @@ main{
     right:30%;
     
     z-index:2;
+
+    text-align: center;
+    color:white;
+}
+.arrow{
+    max-width: 3em;
+
+    filter:invert();
+
+    position:absolute;
+    top:41%;
+    z-index: 4;
+
+    
+}
+#left{
+    left: 3%;
+}
+#right{
+    right: 6%;   
 }
 
+.arrow:hover{
+    filter:blur(1px);
+    cursor:pointer;
+}
