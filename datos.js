@@ -1,6 +1,6 @@
 const requestURL = '../datos.json';
 
-let grid = document.querySelector('.image-grid')
+let grid = document.querySelector('.image-grid');
 
 
 fetch(requestURL)
@@ -19,13 +19,13 @@ fetch(requestURL)
       start_index += 8;
       end_index += 8;
 
-      let all_b = document.querySelectorAll(".page-reader b")
+      let all_b = document.querySelectorAll(".page-reader b");
       all_b.forEach((element)=> {
-        element.style.color = "var(--sepia)"
+        element.style.color = "var(--sepia)";
       });
 
       display_menu(start_index,end_index);
-    })
+    });
 
     let back_button =  document.getElementById("left");
     back_button.addEventListener("click", () =>{
@@ -33,13 +33,13 @@ fetch(requestURL)
       start_index -= 8;
       end_index -= 8;
       
-      let all_b = document.querySelectorAll(".page-reader b")
+      let all_b = document.querySelectorAll(".page-reader b");
       all_b.forEach((element)=> {
-        element.style.color = "var(--sepia)"
+        element.style.color = "var(--sepia)";
       });
       
       display_menu(start_index,end_index);
-    })
+    });
     let page_reader = document.querySelector(".page-reader");
       for (let x = 0; x < obras.length; x += 8){
         let page_number = document.createElement("b");
@@ -48,19 +48,19 @@ fetch(requestURL)
 
           start_index = x;
           end_index = x + 8;
-        let all_b = document.querySelectorAll(".page-reader b")
+        let all_b = document.querySelectorAll(".page-reader b");
         all_b.forEach((element)=> {
-          element.style.color = "var(--sepia)"
+          element.style.color = "var(--sepia)";
         });
-        page_number.style.color = "var(--brown)"
+        page_number.style.color = "var(--brown)";
 
           display_menu(start_index,end_index);
-        })
+        });
         page_reader.appendChild(page_number);
       }
 
 
-    display_menu(start_index, end_index)
+    display_menu(start_index, end_index);
   function display_menu(start_index, end_index) {
     grid.innerHTML = "";
     if (start_index < 0 ) {
@@ -99,7 +99,7 @@ fetch(requestURL)
               autoribime.textContent = "(Autor Ibime)";
               autoribime.style.color = "blue";
               click_info.appendChild(autoribime);
-            };
+            }
             let tecnica = document.createElement("p");
             tecnica.innerHTML = "<b>Tecnica: </b>" + obras[i].tecnica;
             click_info.appendChild(tecnica);

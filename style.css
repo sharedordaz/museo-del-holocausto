@@ -120,7 +120,7 @@ main{
 .arrow{
     max-width: 3em;
 
-    filter:invert();
+    filter: invert(100%);
 
     position:absolute;
     top:41%;
