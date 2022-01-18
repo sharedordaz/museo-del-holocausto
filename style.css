@@ -17,6 +17,9 @@ h1,h2,h3,h4{
     font-family: 'Oswald', 'Times New Roman', Times, serif;
 }
 
+p, b, i, strong, a{
+    font-family: Arial, Helvetica, sans-serif;
+}
 main{
     margin: 10% 7% 10% 7%;
 
@@ -134,4 +137,33 @@ main{
 .arrow:hover{
     filter:blur(1px);
     cursor:pointer;
+}
+
+@media screen and (max-width: 600px){
+    #title{
+        font-size: 1.2em;
+    }
+    .click-info{
+        top:-10%;
+    }
+
+}
+
+@media screen and (min-width: 1600px){
+    #title{
+        font-size: 5em;
+    }
+    .click-info{
+        top:-40%;
+    }
+    main{
+        width:65%;
+        height:26em;
+
+        margin: 10% 10% 10% 18%;
+    }
+    #left{
+        left: 6%;
+    }
+
 }
