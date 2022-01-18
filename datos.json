@@ -172,12 +172,111 @@
             "gen" : "2020-2021"
         },
         {
-            "nombre" : "El ángel del gueto de Varsovia",
-            "autor" : "Ivonne Mora",
+            "nombre" : "Monumento a los niños aldeanos",
+            "autor" : "Marie Uchytilová y J.V. Hampl",
+            "ibime" : false,
+            "tecnica" : "Escultura",
+            "descripcion" : "Fue en 1969, que Marie, profundamente conmovida por el hecho, decide crear este monumento de bronce para homenajear a aquellos niños. Dos décadas le llevó a Marie reproducir 82 niños a tamaño real en yeso. Miles de personas visitaron su taller en ese tiempo, pero por desgracia la escultora fallecía en otoño de 1989 de manera repentina, habiendo reproducido en bronce tan solo 3 de las siluetas que habían sido costeadas de su propio bolsillo. Fue su esposo, J.V. Hampl, el encargado de terminar la obra que a día de hoy nos recuerda lo tremendas que son las guerras y que debemos luchar porque algo así, ni siquiera parecido, vuelva a tener lugar. En 1942 un grupo de 82 niños, 42 niñas y 40 niños, fueron vil y cruelmente asesinados a sangre fría por los nazis en Chelmno. Esta ciudad polaca albergó el trágico título de tener el primer campo de exterminio alemán creado con el cruel fin de llevar una limpieza étnica a través de los asesinatos en masa. ",
+            "imagen" : "projectImages/ninosaldeanos.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Si esto es un hombre (poesía)",
+            "autor" : "Primo Levi",
+            "ibime" : false,
+            "tecnica" : "Poema",
+            "descripcion" : "Primo Levi, poeta y escritor judeoitaliano. Nació en Turín en 1919. Antes de la Segunda Guerra Mundial era químico industrial. Arrestado en 1943, fue deportado a Auschwitz, donde sobrevivió debido a que, como químico, a los nazis les resultaba de «utilidad». Su obra  más conocida, Si esto es un hombre, describe sus vivencias en el campo de concentración. Se suicidó en 1987, atormentado por el recuerdo de sus experiencias durante el Holocausto",
+            "imagen" : "projectImages/poemahombre.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Autoretrato de David Olère",
+            "autor" : " David Olère",
+            "ibime" : false,
+            "tecnica" : "Oleo",
+            "descripcion" : "En el óleo, un autorretrato, el artista, demacrado, aterido de frío, vistiendo el uniforme a rayas de prisionero e identificado con el número 106 144 camina semidescalzo sobre la nieve, vigilado por un soldado nazi de las SS de facciones brutales. Al fondo se aprecian una torre de vigilancia, el perfil de un soldado y un perro y un grupo de gente que avanza hacia un par de edificios de cuyas chimeneas sale humo. Es fácil identificar las construcciones como los hornos crematorios y cámaras de gas II y III del complejo de exterminio de Auschwitz-Birkenau, a pocos kilómetros de la ciudad polaca de Cracovia. En el campo fueron masacradas por el nazismo 1.100.000 personas, el 90% de ellas, judíos. En la pintura el cielo es de color rojizo y azul grisáceo. En el borde inferior derecho del cuadro, sobre la firma del autor, aparecen un patuco de niño, un zapato de mujer y un muñeco. Son los únicos detalles de la pintura que parecen tener vida, pero están abandonados. ",
+            "imagen" : "projectImages/autorretratoolere.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Terezin, replica",
+            "autor" : "Valeria Montserrat Tinoco Santos, basado en la obra de Helga Weissová",
             "ibime" : true,
-            "tecnica" : "Dibujo puntillista",
-            "descripcion" : "Historia sobre Irina Sendler en el gueto de Varsovia. ",
-            "imagen" : "projectImages/angelivonne.jpg",
+            "tecnica" : "Dibujo",
+            "descripcion" : "Valeria, alumna de Ibime representa la obra 'Terezin', un dibujo hecho originalmente por Helga Weissová, una sobreviviente del holocausto. Terezin es una ciudad donde se puso uno de los más relevantes campos de concentración",
+            "imagen" : "projectImages/terezinreplica.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Deportación de los niños",
+            "autor" : "Leo Haas",
+            "ibime" : false,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Haas fue un pintor que vivió dentro de varios guetos y campos de concentración. Fue un talentoso artista y uso su talento para sobrevivir en los campos. También ofreció cursos de pintura para los niños del gueto, a cambio de lo cual recibía algo de comida. Utilizaba este pago para preparar platillos originales que lo hicieron famoso en su círculo. También pinto las circunstancias que veía a lo largo de su vivencia en los guetos.",
+            "imagen" : "projectImages/leohassninos.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Un Aliento De Esperanza",
+            "autor" : "Mabel Victoria Macías Castillo",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Lo que cuenta este dibujo es una persona en un campo de concentración deseando y esperando el día que acabe toda la tortura que ocurría y que pueda ser libre.",
+            "imagen" : "projectImages/esperanza.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Der herbst (El otoño)",
+            "autor" : "Alexia D.G. Olvera",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "'Me inspiré en la caída de Hitler, en su suicidio y en la actualidad; hay libertad hacia cada persona y como sin importar religión, apariencia,  u orientación sexual, hay igualdad' mencionó la autora respecto a su obra.",
+            "imagen" : "projectImages/derherbst.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Dibujo de Ximena Flores",
+            "autor" : "Ximena Adara Flores Cruz",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "La artista,  representa con esta obra la desesperación que sentía la gente que estaba en la cámara de gas, al estirar su mano para respirar aire, solo consiguiendo morir por el gas tóxico.",
+            "imagen" : "projectImages/ximenaflores.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El fugitivo",
+            "autor" : "Felix Nussbaum",
+            "ibime" : false,
+            "tecnica" : "Pintura",
+            "descripcion" : "En este se muestra la desesperación del autor en el exilio.",
+            "imagen" : "projectImages/fugitivo.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "El ángel del Gueto de Varsovia",
+            "autor" : "Sara Díaz",
+            "ibime" : true,
+            "tecnica" : "Acuarela",
+            "descripcion" : "Relato o historia en la que se basa: Irena Sendler, una trabajadora social del Departamento de Bienestar Social de Varsovia que durante la Segunda Guerra Mundial utilizó su trabajo para acceder al gueto de Varsovia y organizar a un grupo de personas para salvar a los niños judíos del gueto. Se calcula que salvó a más de 2500 niños sacándolos del gueto escondidos en bultos y entregándolos posteriormente a familias no perseguidas por los nazis para que los criaran como hijos propios, en aquellos casos en los que no encontraban una familia que se hiciese cargo de ellos los ocultaban en orfanatos o conventos. Irena apuntaba el nombre de todos los niños, así como su dirección actual y el nombre de sus familia biológica, con la esperanza de que una vez finalizada la guerra pudieran reunirse con sus familias. Todos los nombres y direcciones los escondió en un tarro que enterró en un jardín para que no pudieran ser encontrados.",
+            "imagen" : "projectImages/irenasara.png",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Una calle en el gueto de Lodz",
+            "autor" : "Josef Kovner",
+            "ibime" : false,
+            "tecnica" : "Acuarela",
+            "descripcion" : "Esta pintura, contrasta la variedad de colores con las experiencias horribles que se tuvieron que vivir en los guetos. La exposición 'Arte durante el Holocausto' muestra cómo algunos artistas encerrados en guetos y campos de concentración documentaban y creaban grandes obras de arte basadas en el horror, mientras los nazis estaban cometiendo los mayores crímenes de la historia de la humanidad. A principios de febrero de 1940 los alemanes crearon un ghetto en la zona noreste de Lodz. Cerca de 160.000 judíos, más de un tercio de la población de la ciudad, fueron hacinados en una pequeña área. Con vallas de alambre de púas, los alemanes aislaron el ghetto del resto de Lodz.",
+            "imagen" : "projectImages/lodzgueto.jpg",
+            "gen" : "2020-2021"
+        },
+        {
+            "nombre" : "Obra de Erick Borja",
+            "autor" : "Erick Santiago Borja Olvera",
+            "ibime" : true,
+            "tecnica" : "Plastilina",
+            "descripcion" : "Esta obra representa un campo de concentración, estando arriba dos soldados y abajo mujeres y niños esperando para entrar a la cámara de gas.",
+            "imagen" : "projectImages/plastilinaerick.png",
             "gen" : "2020-2021"
         }
     ]
