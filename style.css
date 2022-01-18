@@ -103,18 +103,19 @@ main{
     z-index:1;
 }
 #ibime-logo{
-
-    width:30%;
-
     position:absolute;
-    top:75%;
+    top:87%;
     left:30%;
     right:30%;
     
     z-index:2;
 
     text-align: center;
-    color:white;
+    color:var(--sepia);
+    background-color:var(--beige);
+}
+#ibime-logo img{
+    width:30%
 }
 .arrow{
     max-width: 3em;
@@ -139,6 +140,25 @@ main{
     cursor:pointer;
 }
 
+.page-reader{
+    position:absolute;
+    top:80%;
+    margin-left:5%;
+}
+.page-reader b{
+    font-size:2em;
+    color:var(--sepia);
+    text-shadow:2px 1px white;
+
+    cursor: pointer;
+}
+.page-reader b:hover{
+    color:var(--light-brown);
+}
+.page-reader strong{
+    color:white;
+    font-size:2em;
+}
 @media screen and (max-width: 600px){
     #title{
         font-size: 1.2em;

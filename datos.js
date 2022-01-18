@@ -13,12 +13,16 @@ fetch(requestURL)
 
     let start_index = 0;
     let end_index = 8;
-    let page = 1
     let next_button =  document.getElementById("right");
     next_button.addEventListener("click", () =>{
 
       start_index += 8;
       end_index += 8;
+
+      let all_b = document.querySelectorAll(".page-reader b")
+      all_b.forEach((element)=> {
+        element.style.color = "var(--sepia)"
+      });
 
       display_menu(start_index,end_index);
     })
@@ -28,9 +32,33 @@ fetch(requestURL)
 
       start_index -= 8;
       end_index -= 8;
-
+      
+      let all_b = document.querySelectorAll(".page-reader b")
+      all_b.forEach((element)=> {
+        element.style.color = "var(--sepia)"
+      });
+      
       display_menu(start_index,end_index);
     })
+    let page_reader = document.querySelector(".page-reader");
+      for (let x = 0; x < obras.length; x += 8){
+        let page_number = document.createElement("b");
+        page_number.textContent = x/8 + 1 +  " ";
+        page_number.addEventListener("click", () =>{
+
+          start_index = x;
+          end_index = x + 8;
+        let all_b = document.querySelectorAll(".page-reader b")
+        all_b.forEach((element)=> {
+          element.style.color = "var(--sepia)"
+        });
+        page_number.style.color = "var(--brown)"
+
+          display_menu(start_index,end_index);
+        })
+        page_reader.appendChild(page_number);
+      }
+
 
     display_menu(start_index, end_index)
   function display_menu(start_index, end_index) {
