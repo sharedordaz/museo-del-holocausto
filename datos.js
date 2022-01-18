@@ -1,4 +1,4 @@
-const requestURL = '../datos.json';
+const requestURL = 'datos.json';
 
 let grid = document.querySelector('.image-grid');
 
