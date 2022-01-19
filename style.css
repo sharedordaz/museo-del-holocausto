@@ -63,7 +63,7 @@ main{
 }
 
 .click-info{
-    position:fixed;
+    position:absolute;
     left:10%;
     top:5%;
     padding:1%;
@@ -72,9 +72,6 @@ main{
     opacity:0.95;
     display: none;
     width:83%;
-
-
-
 }
 
 .click-info img{
