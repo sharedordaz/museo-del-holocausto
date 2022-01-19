@@ -176,6 +176,19 @@ main{
     }
 }
 
+@media only screen and (max-width: 1024px) and (orientation: landscape){
+    #title{
+        font-size: 0.4em;
+    }
+    #ibime-logo{
+        top:120%;
+    }
+    .page-reader{
+        top:110%;
+
+    }
+}
+
 @media screen and (min-width: 1600px){ /*?Wide screen*/
     #title{
         font-size: 5em;
