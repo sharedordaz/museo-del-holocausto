@@ -191,10 +191,10 @@ main{
 @media only screen and (max-width: 800px) and (orientation: landscape){ /*?phone landscape*/
 
     #ibime-logo{
-        top:145%;
+        top:160%;
     }
     .page-reader{
-        top:130%;
+        top:145%;
 
     }
 }
