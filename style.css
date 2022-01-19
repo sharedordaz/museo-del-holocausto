@@ -63,21 +63,18 @@ main{
 }
 
 .click-info{
+    position:fixed;
+    left:10%;
+    top:5%;
+    padding:1%;
+
     background-color:var(--lighter-sepia);
     opacity:0.95;
     display: none;
     width:83%;
 
 
-    position:absolute;
-    top:-20%;
-    left:10%;
-    
 
-    animation: reverse;
-    animation-duration: 2s;
-    transition: 2s;
-    padding:1%;
 }
 
 .click-info img{
@@ -165,8 +162,9 @@ main{
         width:100%;
     }
     .click-info{
-        top:-10%;
+        top:0%;
     }
+       
 
 }
 
@@ -184,9 +182,6 @@ main{
 @media screen and (min-width: 1600px){ /*?Wide screen*/
     #title{
         font-size: 5em;
-    }
-    .click-info{
-        top:-40%;
     }
     main{
         width:65%;
