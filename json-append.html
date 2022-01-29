@@ -8,29 +8,37 @@
 </head>
 <body>
     <div class="appender">
-        <label for="nombre">Nombre: </label>
+    <form>
+        <label for="nombre_input">Nombre: </label>
         <input type="text" id="nombre_input" name="nombre">
+        <br><br>
 
-        <p>Ibime</p>
-        <input type="radio" id="ibime_si" name="ibime_si" value="true">
-        <label for="ibime_si">SI</label><br>
-        <input type="radio" id="ibime_no" name="ibime_no" value="false">
-        <label for="ibime_no">NO</label><br>
+        <label for="ibime_input">Es alumno ibime?: </label>
+        <select name="ibime_input" id="ibime_input">
+            <option selected disabled>Selecciona</option>
+            <option value="true">Si</option>
+            <option value="false">NO</option>
+        </select> 
+        <br><br>
 
-        <label for="nombre">Nombre: </label>
-        <input type="text" id="nombre_input" name="nombre">
+        <label for="tecnica_input">Tecnica: </label>
+        <input type="text" id="tecnica_input" name="tecnica_input">
+        <br><br>
 
-        <label for="nombre">Nombre: </label>
-        <input type="text" id="nombre_input" name="nombre">
+        <label for="descripcion_input">Descripcion: </label>
+        <textarea id="descripcion_input" name="descripcion_input" cols="30" rows="3"></textarea>
+        <br><br>
 
-        <label for="nombre">Nombre: </label>
-        <input type="text" id="nombre_input" name="nombre">
+        <label for="gen_input">Generacion: </label>
+        <input type="text" id="gen_input" name="gen_input">
+        <br><br>
 
-        <label for="nombre">Nombre: </label>
-        <input type="text" id="nombre_input" name="nombre">
-
-        <label for="nombre">Nombre: </label>
-        <input type="text" id="nombre_input" name="nombre">
+        
+        <input type="reset">
+        
+    </form>
+    <button id="subir">Subir</button>
     </div>
+    <script src="json_appender.js"></script>
 </body>
 </html>
