@@ -7,7 +7,8 @@
     --light-sepia: #a5a58d;
     --sepia: #6b705c;
 
-    background-image: url(images/table.jpg);
+    /*background-image: url(images/table.jpg);*/
+    background-color: rgb(37, 28, 1);
 }
 img{
     max-width: 100%;
@@ -88,7 +89,7 @@ main{
 #title{
     position:absolute;
     top:0%;
-    left:30%;
+    left:36%;
     right:30%;
 
     font-size: 3rem;
@@ -99,14 +100,14 @@ main{
 #ibime-logo{
     position:absolute;
     top:87%;
-    left:30%;
-    right:30%;
+    left:40%;
+    right:40%;
     
     z-index:2;
 
     text-align: center;
-    color:var(--sepia);
-    background-color:var(--beige);
+    color:black;
+    background-color:gray;
 }
 #ibime-logo img{
     width:30%
@@ -155,13 +156,16 @@ main{
 }
 @media screen and (max-width: 600px){ /*?Tablet*/
     #title{
+        left:40%;
         font-size: 1em;
         width:100%;
     }
     .click-info{
         top:0%;
     }
-       
+    #ibime-logo b{
+        font-size: medium;
+    }
 
 }
 
@@ -178,11 +182,12 @@ main{
 
 @media only screen and (max-width: 1064px) and (orientation: landscape){ /*?tablet landscape*/
     #title{
-        font-size: 1em;
+        font-size: 2em;
     }
     #ibime-logo{
         top:105%;
     }
+    
     .page-reader{
         top:90%;
 
