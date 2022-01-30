@@ -1,6 +1,205 @@
 {
     "main":[
         {
+            "nombre" : "Sin titulo",
+            "autor" : "Heriberto Bautista Rodriguez",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Listo mi dibujo miss, lo que quiero dar a entender con él, es el miedo que le tenían los judíos a Hitler (más concreto a los nazis), por eso el dibujo de él es el más grande, luego como se vivía en los campos, las rejas donde las personas se ven tristes al no poder salir y haber perdido todo, el campo de gas donde tantísima gente moría y en otra como los soldados mataban a la gente por que sí.",
+            "imagen" : "projectImages2122/Heriberto Bautista R..jpg",
+            "gen" : "2021-2022"
+        },
+        {
+            "nombre" : "La mentira de los nazis",
+            "autor" : "Alexander Pineda Gutiérrez ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Este dibujo está basado en la mentira que los nazis les dijeron a los judios, para que se metieran en los campos de concentración y trabajaran para ellos, en el derecho se muestra como los metian a los campos de concentración y el de la izquierda muestra cómo los cuerpos ya sin vida eran metidos a un horno para que cuando fueran descubiertos nunca supieran que mataron a muchos judios, homosexuales, testigos de jehová, etc.",
+            "imagen" : "projectImages2122/Alexander Pineda Gutiérrez.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Irena Sendler, El Angel Del Gueto De Varsovia",
+            "autor" : "Victor Benavidez Martínez ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Sin descripcion",
+            "imagen" : "projectImages2122/BENAVIDES MARTÍNEZ VICTOR.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "¿Cómo era la vida en los guetos y campos?",
+            "autor" : "Paloma Duarte Zúñiga ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Las condiciones de vida en el ghetto son horribles; la mayor parte de la zona no posee agua potable ni un sistema de cloacas. La vida se caracteriza principalmente por el trabajo arduo, la superpoblación y la hambruna. Comienzan las deportaciones desde el ghetto de Lodz al centro de exterminio de Chelmno",
+            "imagen" : "projectImages2122/paloma-duarte-zuniga.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "El tren de la tristeza",
+            "autor" : "Gabriel Escamilla Serrano ",
+            "ibime" : true,
+            "tecnica" : "Dibujo a lápiz",
+            "descripcion" : "Este dibujo representa el miedo que los judíos le tenían al tren que los transportaban a loas campos de concentración en este caso a campo de concentración mas grande: Auswitch",
+            "imagen" : "projectImages2122/ESCAMILLA SERRANO GABRIEL.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Irena Sendler",
+            "autor" : "Stephany Jacqueline Velazquez Martinez ",
+            "ibime" : true,
+            "tecnica" : "Dibujo a lápiz",
+            "descripcion" : "Trata de como una enfermera salva la vida de niños",
+            "imagen" : "projectImages2122/VELAZQUEZ MARTÍNEZ STEPHANY JAQUELINE.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Los Dos Mundos",
+            "autor" : "Cynthia Paulina Bezie Hernandez ",
+            "ibime" : true,
+            "tecnica" : "Dibujo a colores",
+            "descripcion" : "La obra trata de como el muro  separaba a lugares muy distintos como si fueran dos mundos completamente diferentes",
+            "imagen" : "projectImages2122/BEZIE HERNÁNDEZ CYNTHIA PAULINA.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "¿Qué es un campo de concentración?",
+            "autor" : "Yahir Chepe Domínguez Jefferson ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Lugar lejos de las ciudades donde se realizaban trabajos forzados, los primeros en llegar al campo fueron los opositores al régimen. No fueron inventados por los nazis y no eran los únicos. Los judíos trabajaban sin pago, después de 1942 vendría la solución final donde se construyeron cámaras de gas y hornos par cremar los cadáveres",
+            "imagen" : "projectImages2122/CHEPE DOMÍNGUEZ JEFFERSON YAHIR.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Sin titulo",
+            "autor" : "Ivana Ledesma León ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Esta historia se trata del peor doctor en la segunda guerra mundial  ya que hacia experimentos con los niños para hacer gemelos y que los nazis tuvieran mas reclutas para su plan y destrucción, de hecho el doctor Josef le decían tío bueno ya que al final del experimento les daba unas barras de chocolate si es que se habían portado bien los niños y por último también experimentaba con más personas más grandes pero los mataba.",
+            "imagen" : "projectImages2122/LEDESMA LEON IVANA.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Sin titulo",
+            "autor" : "Frida Camila Mendoza Torres  (de Janusz Korczak)",
+            "ibime" : true,
+            "tecnica" : "Dibujo realizado con lápices de carbón",
+            "descripcion" : "Profesor de un orfanato, le informaron que iba a morir pero este decide morir junto con sus alumnos,  este les dice que van a una excursión por lo que llevan lunch",
+            "imagen" : "projectImages2122/MENDOZA TORRES FRIDA CAMILA.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Los niños en los Ghettos ",
+            "autor" : "Zoe Camila Ramirez Rebollar ",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "En mi dibujo muestra cómo vivían los niños durante la segunda guerra mundial, sin hogar y sin comida.",
+            "imagen" : "projectImages2122/RAMÍREZ REBOLLAR ZOE CAMILA.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Una vida fria",
+            "autor" : "Diego Tinoco León ",
+            "ibime" : true,
+            "tecnica" : "Lapiz y difuminacion con el lapiz",
+            "descripcion" : "Este dibujo cuenta como era la vida de los judio sen los guetos, dura, dificil, muchas personas morian de frio y/o hambre.",
+            "imagen" : "projectImages2122/TINOCO LEON DIEGO.jpg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "No despiertes antes de salir",
+            "autor" : "Yael Godinez Flores ",
+            "ibime" : true,
+            "tecnica" : "Colores de madera y Plumones",
+            "descripcion" : "Mi obra hace una referencia a cómo irena sendler sacaba niños del holocausto durmiéndolos para después sacarlos en barriles o arándoselos al cuerpo.",
+            "imagen" : "projectImages2122/yael-godinez.png",
+            "gen" : "2021-2022"
+        },                {
+            "nombre" : "Un error histórico",
+            "autor" : "Yaretzi Ramirez Zavala ",
+            "ibime" : true,
+            "tecnica" : "Pintura acrílica plumón lápiz pinceles y agua",
+            "descripcion" : "Se basa en los campos de concentración que se encontraban fuera de la cuidad y se ocupaban principal mente para ejecutar o hacer trabajos forzados",
+            "imagen" : "projectImages2122/RAMÍREZ ZAVALA YARETZI.jpeg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Sin Titulo (poema)",
+            "autor" : "Rómulo Emilio Rojas Rojas",
+            "ibime" : true,
+            "tecnica" : "Poema",
+            "descripcion" : "Este poema está inspirado en Ana Frank ya que su historia fue muy trágica y triste porque el fin de algo que trataba de alcanzar estaba a la vuelta de la esquina y no pudo completar su objetivo pero logró sobrevivir a parte de estos terribles sucesos.",
+            "imagen" : "projectImages2122/rojas-rojas-romulo.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "El Anexo Secreto: El Hogar De Ana Frank.",
+            "autor" : "Gustavo Samano Trejo",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Sin descripcion",
+            "imagen" : "projectImages2122/SÁMANO TREJO GUSTAVO.jpeg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Sin titulo",
+            "autor" : "Alexa Danae Souberbielle Escobar",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Se trata de una enfermera llamada Irena que rescató a 2,500 niños del gueto de Varsovia ",
+            "imagen" : "projectImages2122/SOUBERBIELLE ESCOBAR ALEXA DANAE.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "La Vida En El Gueto",
+            "autor" : "Eduardo Jose Vargas Rosales",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Sin descripcion",
+            "imagen" : "projectImages2122/VARGAS ROSALES EDUARDO JOSEL.jpeg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Irina Slender",
+            "autor" : "Melany Sarahi Ramirez Cruz",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Sin descripcion",      
+            "imagen" : "projectImages2122/RAMÍREZ CRUZ MELANY SARAHI.jpeg",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "Sin nombre",
+            "autor" : "Natalia Hernández Reyes",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Frase: Lo que se ha hecho no se puede deshacer, pero se puede evitar",
+            "imagen" : "projectImages2122/Hernández Reyes Natalia.png",
+            "gen" : "2021-2022"
+        },        {
+            "nombre" : "20 de Febrero de 1942",
+            "autor" : "Omar Rodriguez Olmos",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Se registro el primer caso de canivalismo en el guetto de Varsovia, sobre una madre, que despues de que su hijo muriera de hambre en la desesperacion le arranco un gluteo al cadaver de su hijo y se lo comio",
+            "imagen" : "projectImages2122/RODRÍGUEZ OLMOS OMAR.jpg",
+            "gen" : "2021-2022"
+        },
+        {
+            "nombre" : "Sin titulo",
+            "autor" : "Maria Abril Tercero Caballero",
+            "ibime" : true,
+            "tecnica" : "Dibujo tecnica mixta",
+            "descripcion" : "Sin descipcion",
+            "imagen" : "projectImages2122/TERCERO CABALLERO MARIA ABRIL.jpeg",
+            "gen" : "2021-2022"
+        },
+        {
+            "nombre" : "Irena Sendler",
+            "autor" : "Bruno Martiñon Gallardo",
+            "ibime" : true,
+            "tecnica" : "Dibujo a lapiz",
+            "descripcion" : "Irena Sendler fue una de las enfermeras del guetto de Varsobia. Salvo a 2500 niños judios de la muerte",
+            "imagen" : "projectImages2122/MARTIÑON GALLARDO BRUNO.jpeg",
+            "gen" : "2021-2022"
+        },
+        {
+            "nombre" : "Irena Sendler",
+            "autor" : "Bethzabeth Melanney Garcia Solis",
+            "ibime" : true,
+            "tecnica" : "Dibujo",
+            "descripcion" : "Sin descripcion",
+            "imagen" : "projectImages2122/GARCÍA SOLÍS MELANNEY BETZABETH.png",
+            "gen" : "2021-2022"
+        },
+        
+        
+        {
             "nombre" : "Der Engel ",
             "autor" : "Karla Irais Rodríguez Hernández",
             "ibime" : true,
