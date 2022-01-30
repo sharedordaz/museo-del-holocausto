@@ -178,6 +178,13 @@ main{
         align-items: center;
         justify-items: center;
     }
+    #ibime-logo{
+        top:105%;
+        left:23%;
+        right:23%;
+        font-size: smaller;
+    }
+    
 }
 
 @media only screen and (max-width: 1064px) and (orientation: landscape){ /*?tablet landscape*/
@@ -186,6 +193,7 @@ main{
     }
     #ibime-logo{
         top:105%;
+        font-size: small;
     }
     
     .page-reader{
